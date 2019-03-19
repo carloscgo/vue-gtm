@@ -1,20 +1,17 @@
 {
   "name": "vue-gtm",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Google Tag Manager implementation in Vue application",
   "main": "./dist/vue-gtm.min.js",
-  "author": "Manish Kumar",
+  "author": "Carlos Camacho",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/mib200/vue-gtm",
+  "homepage": "https://github.com/carloscgo/vue-gtm",
   "scripts": {
     "build": "webpack --config webpack.config.js --progress --hide-modules"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mib200/vue-gtm.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mib200/vue-gtm/issues"
+    "url": "https://github.com/carloscgo/vue-gtm.git"
   },
   "jshintConfig": {
     "esversion": 6
